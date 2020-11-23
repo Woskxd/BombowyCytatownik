@@ -5,6 +5,7 @@
     <title>Bombowy cytatownik</title>
 </head>
 <body>
+dupa
     <?php
         echo "Hello World!";
     ?>
